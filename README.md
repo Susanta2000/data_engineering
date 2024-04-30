@@ -69,9 +69,7 @@ de-project
 │       └── spark_session.py
 └── test
     ├── dev_tests
-    │   ├── generate_csv_data.py
-    │   ├── generate_csv_data_with_extra_columns.py
-    │   ├── generate_csv_data_with_less_columns.py
+    │   ├── test.py
     └── prod_tests
         └── test.py
 ```
