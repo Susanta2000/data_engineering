@@ -23,6 +23,7 @@ Step-6: When all gets installed run main.py file inside src/main/transformations
 ## Project Structure
 
 ```plaintext
+de-project
 ├── dependencies
 │   ├── dev
 │   │   ├── config.py
@@ -30,7 +31,6 @@ Step-6: When all gets installed run main.py file inside src/main/transformations
 │   └── prod
 │       ├── config.py
 │       └── prod-dependencies.txt
-├── README.md
 ├── src
 │   ├── __init__.py
 │   ├── main
