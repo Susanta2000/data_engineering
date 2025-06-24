@@ -17,7 +17,8 @@ Step-2: Apache spark should also be installed.<br>
 Step-3: Create a virtual environment.<br>
 Step-4: Go to dependencies ---> dev directory and install all required libraries by running below command:<br>
 ```pip install -r dev-dependencies.txt```<br>
-Step-5: Then set AWS credentials (access key and secret key) in config file.
+
+Step-5: Then set AWS credentials (access key and secret key) in config file.<br>
 Step-6: When all gets installed run main.py file inside src/main/transformations/jobs/ directory.
 
 ## Project Structure
